@@ -1,0 +1,4 @@
+interface:
+  display_name: "MeoW Notifications"
+  short_description: "Send redacted Codex completion summaries to your phone"
+  default_prompt: "Use $meow-notify to set up MeoW phone notifications for completed Codex turns."

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+settings.json
+config.toml
+*.bak
+queue/
+summary-jobs/
+*.jsonl
+*.lock
+last-status.txt
+worker-state.json
+.env
+.env.*
